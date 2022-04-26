@@ -1,2 +1,5 @@
 # GCMS-Flavio-Vieira
-Repositorio
+Repositório da prática
+
+## Colaboradores
+* Flávio Vieira (@flaviovieira1)
